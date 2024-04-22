@@ -1,0 +1,11 @@
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\ApiManagmement.exe
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\ApiManagmement.dll
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\ApiManagmement.deps.json
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\ApiManagmement.runtimeconfig.json
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\ApiManagmement.pdb
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\ApiManagmement\ApiManagmement\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
